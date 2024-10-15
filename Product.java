@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Product {
 
-     public static void main(String[] args) {
+     public static void main(Print14[] args) {
           Scanner sc = new Scanner(System.in);
           int product1 = sc.nextInt();
           int product2 = sc.nextInt();

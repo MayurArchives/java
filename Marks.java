@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Marks {
 
-    public static void main(String[] args) {
+    public static void main(Print14[] args) {
         Scanner sc = new Scanner(System.in);
         int marks = sc.nextInt();
         if (marks < 33) {

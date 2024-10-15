@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Patern3 {
 
-    public static void main(String[] arg) {
+    public static void main(Print14[] arg) {
 
         int r = 4;
         int c = 5;

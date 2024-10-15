@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Runnerup { // Ensure the class name is Runnerup
-    public static void main(String[] args) {
+    public static void main(Print14[] args) {
         Scanner sc = new Scanner(System.in);
 
         int A = sc.nextInt();

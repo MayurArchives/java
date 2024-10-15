@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Print12 {
 
-    public static void main(String[] args) {
+    public static void main(Print14[] args) {
         Scanner sc = new Scanner(System.in);
         int m = sc.nextInt();
         int r = sc.nextInt();

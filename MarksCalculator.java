@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class MarksCalculator {
-    public static void main(String[] args) {
+    public static void main(Print14[] args) {
         Scanner sc = new Scanner(System.in);
 
         // Input marks for the five subjects
