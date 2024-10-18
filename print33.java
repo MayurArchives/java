@@ -8,7 +8,7 @@ public class print33 {
 
         int n = sc.nextInt();
 
-        for (int i = n; i > 1; i /= 3) {
+        for (int i = n; i >= 1; i /= 3) {
 
             System.out.print(i + " ");
         }
